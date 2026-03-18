@@ -59,9 +59,9 @@ I am **Pankaj Yadav**, a Data Analyst Intern skilled in SQL, data cleaning, data
 ---
 
 ## 📱 Connect
-- LinkedIn: https://linkedin.com/in/pankaj-yadav  
-- GitHub: https://github.com/pankajyadav  
-- Portfolio: https://pankajyadav.github.io  
+- LinkedIn: linkedin.com/in/pankaj-yadav-960a85379/  
+- GitHub: https://github.com/JE-Pankaj-Yadav  
+- Portfolio: https://je-pankaj-yadav.github.io/My-Portfolio-Website/  
 
 ---
 
